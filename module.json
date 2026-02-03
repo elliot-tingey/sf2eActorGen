@@ -6,5 +6,7 @@
   "authors": [{ "name": "You" }],
   "compatibility": { "minimum": "12", "verified": "13" },
   "esmodules": ["scripts/main.js"],
-  "styles": ["styles/quickgen.css"]
+  "styles": ["styles/quickgen.css"],
+  "download": "https://github.com/elliot-tingey/sf2eActorGen/archive/refs/heads/main.zip"
+  
 }
