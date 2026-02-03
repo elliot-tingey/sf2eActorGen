@@ -5,6 +5,6 @@
   "version": "0.1.0",
   "authors": [{ "name": "Elliot" }],
   "compatibility": { "minimum": "12", "verified": "12" },
-  "esmodules": ["scripts/main.js"]
+  "esmodules": ["scripts/main.js"],
   "download": "https://github.com/elliot-tingey/sf2eActorGen/archive/refs/heads/main.zip"
 }
