@@ -1,4 +1,5 @@
 {
+ 
   "id": "sf2e-quickgen",
   "title": "SF2e QuickGen",
   "description": "NPC QuickGen UI for Starfinder 2e.",
@@ -8,4 +9,5 @@
   "esmodules": ["scripts/main.js"],
   "styles": ["styles/quickgen.css"],
   "download": "https://github.com/elliot-tingey/sf2eActorGen/archive/refs/heads/main.zip"
+
 }
