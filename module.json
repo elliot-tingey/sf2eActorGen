@@ -1,13 +1,10 @@
 {
- 
   "id": "sf2e-quickgen",
   "title": "SF2e QuickGen",
   "description": "NPC QuickGen UI for Starfinder 2e.",
   "version": "0.1.0",
-  "authors": [{ "name": "You" }],
-  "compatibility": { "minimum": "12", "verified": "13" },
-  "esmodules": ["scripts/main.js"],
-  "styles": ["styles/quickgen.css"],
+  "authors": [{ "name": "Elliot" }],
+  "compatibility": { "minimum": "12", "verified": "12" },
+  "esmodules": ["scripts/main.js"]
   "download": "https://github.com/elliot-tingey/sf2eActorGen/archive/refs/heads/main.zip"
-
 }
