@@ -1,0 +1,10 @@
+{
+  "id": "sf2e-quickgen",
+  "title": "SF2e QuickGen",
+  "description": "NPC QuickGen UI for Starfinder 2e.",
+  "version": "0.1.0",
+  "authors": [{ "name": "You" }],
+  "compatibility": { "minimum": "12", "verified": "13" },
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/quickgen.css"]
+}
